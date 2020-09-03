@@ -11,5 +11,8 @@ package proyectopilaengrupo;
  */
 public class PruebaLaPuedenBorrarSiQuieren {
     private int jdfgjdfkgjdkjgkdf;
+    private String ComoEstamos;
+    private double Bien;
+    private boolean Mal;
     
 }
